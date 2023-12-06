@@ -1,0 +1,20 @@
+
+<!DOCTYPE html>
+<html>
+<body style="background-color:#F5B041;" >
+    <header>
+      <Center><h1 style="color:#F4D03F;">Sister</h1></Center>
+    </header>
+<marquee>A Constant Companion in Life's Journey....</marquee>
+<img src="C:\Users\Dell\Desktop\family member\images\pic4.jpg" Height="974" width="740">
+<p>
+My Sister Name is Anushki Tharuka Wattegama.she is 24 Years old.In the tapestry of my life, my sister's presence is a vibrant thread, weaving laughter, support, and companionship into the very fabric of my existence. She is not just a sibling but a confidante, a mentor, and a cherished companion.
+
+One of the most striking aspects of my sister is her infectious enthusiasm. Her zest for life is unparalleled, and she infuses every moment with boundless energy and positivity. Her vibrant spirit is a constant reminder to embrace life's adventures with open arms and an open heart
+</p>
+<footer>
+ <center><li><a href="index.html">homepage</a></li></center>
+ <center><li><a href="family_member_1.html">Father</a></li></center>
+ <center><li><a href="family_member_2.html">Mother</a></li></center>
+</body>
+</html>

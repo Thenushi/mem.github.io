@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:#F5B041;" >
+    <header>
+      <Center><h1 style="color:#F4D03F;">Father</h1></Center>
+    </header>
+<marquee>The Guiding Light in My Life....</marquee>
+<img src="C:\Users\Dell\Desktop\family member\images\pic2.jpg">
+<p>
+My Father Name is Gamini Wattegama.He is 62 Years old.He is now a pensioner.He used to work in the police Department in Gampaha.My father is more than just a parent; he is the cornerstone of our family, the unwavering support in every storm, and the guiding force that shapes my worldview. His influence on my life transcends mere words; it's a profound impact that has shaped my character, aspirations, and values.
+
+One of the most remarkable qualities about my father is his unyielding determination. No obstacle seems insurmountable to him. I've witnessed him tackle challenges with a resolve that's truly inspiring. His perseverance teaches me the value of grit and resilience in the face of adversity.My Father's Dream is that I become a software engineer.So I do it anyway
+</p>
+<footer>
+ <center><li><a href="index.html">homepage</a></li></center>
+ <center><li><a href="family_member_2.html">Mother</a></li></center>
+ <center><li><a href="family_member_3.html">Sister</a></li></center>
+</body>
+</html>
